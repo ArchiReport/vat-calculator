@@ -46,7 +46,7 @@ return [
     | when charging a B2B (company) customer inside your business country.
     |
     */
-    'business_country_code' => '',
+    'business_country_code' => 'FR',
 
     'forward_soap_faults' => false,
 ];
